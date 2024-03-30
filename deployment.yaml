@@ -18,7 +18,7 @@ spec:
         app: flaskdemo
     spec:
       containers:
-      - image: adamumj/favor
+      - image: adamumj/favor:1
         name: flaskdemo
         resources: {}
 status: {}
